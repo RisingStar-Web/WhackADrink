@@ -1,0 +1,24 @@
+
+/* Class = "IBUIButton"; normalTitle = "Leaderboards"; ObjectID = "9i1-7Z-y2y"; */
+"9i1-7Z-y2y.normalTitle" = "Leaderboards";
+
+/* Class = "IBUIButton"; normalTitle = "How To Play"; ObjectID = "ANO-u7-KC5"; */
+"ANO-u7-KC5.normalTitle" = "How To Play";
+
+/* Class = "IBUILabel"; text = "120"; ObjectID = "GLm-WJ-avX"; */
+"GLm-WJ-avX.text" = "120";
+
+/* Class = "IBUILabel"; text = "123456789"; ObjectID = "JF5-r0-E88"; */
+"JF5-r0-E88.text" = "0";
+
+/* Class = "IBUIButton"; normalTitle = "60 Second Timed"; ObjectID = "Map-bJ-Qjl"; */
+"Map-bJ-Qjl.normalTitle" = "60 Second Timed";
+
+/* Class = "IBUILabel"; text = "123456789"; ObjectID = "Nxd-Z8-gpa"; */
+"Nxd-Z8-gpa.text" = "123456789";
+
+/* Class = "IBUIButton"; normalTitle = "Lives"; ObjectID = "QgH-1P-Ib1"; */
+"QgH-1P-Ib1.normalTitle" = "Lives";
+
+/* Class = "IBUIButton"; normalTitle = "120 Second Timed"; ObjectID = "iW8-fB-vba"; */
+"iW8-fB-vba.normalTitle" = "120 Second Timed";

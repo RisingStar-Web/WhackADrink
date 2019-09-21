@@ -1,0 +1,18 @@
+
+/* Class = "IBUIButton"; normalTitle = "Main Menu"; ObjectID = "Ned-pO-lrS"; */
+"Ned-pO-lrS.normalTitle" = "Main Menu";
+
+/* Class = "IBUILabel"; text = "You Scored:"; ObjectID = "OMB-aD-aV4"; */
+"OMB-aD-aV4.text" = "You Scored:";
+
+/* Class = "IBUILabel"; text = "0"; ObjectID = "R4S-5x-dDn"; */
+"R4S-5x-dDn.text" = "0";
+
+/* Class = "IBUIButton"; normalTitle = "New Game"; ObjectID = "pRz-zy-1yD"; */
+"pRz-zy-1yD.normalTitle" = "New Game";
+
+/* Class = "IBUILabel"; text = "Game Over"; ObjectID = "y7n-ye-vDK"; */
+"y7n-ye-vDK.text" = "Game Over";
+
+/* Class = "IBUIButton"; normalTitle = "Leaderboards"; ObjectID = "zUx-Hw-PV6"; */
+"zUx-Hw-PV6.normalTitle" = "Leaderboards";
